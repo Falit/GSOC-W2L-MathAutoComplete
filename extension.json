@@ -1,0 +1,27 @@
+{
+	"name": "MathAutoComplete",
+	"version": "0.0.0",
+	"author": [
+		"Falit Jain"
+	],
+	"url": "https://github.com/WikiToLearn/WikiToLearn/extensions/MathAutoComplete",
+	"descriptionmsg": "autocompleting math fucntions",
+	"license-name": "MIT",
+	"type": "other",
+	"ResourceModules": {
+		"ext.MathAutoComplete": {
+			"scripts": [
+				"modules/ext.MathAutoComplete.js",
+			],
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "modules",
+		"remoteExtPath": "MathAutoComplete"
+		
+	},
+	"manifest_version": 1
+}
+
+
+
