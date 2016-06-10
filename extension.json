@@ -4,7 +4,7 @@
 	"author": [
 		"Falit Jain"
 	],
-	"url": "https://github.com/WikiToLearn/WikiToLearn/extensions/MathAutoComplete",
+	"url": "https://github.com/Falit/GSOC-W2L-MathAutoComplete",
 	"descriptionmsg": "autocompleting math fucntions",
 	"license-name": "MIT",
 	"type": "other",
@@ -17,7 +17,7 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "modules",
-		"remoteExtPath": "MathAutoComplete"
+		"remoteExtPath": "MathAutoComplete/modules"
 		
 	},
 	"manifest_version": 1
